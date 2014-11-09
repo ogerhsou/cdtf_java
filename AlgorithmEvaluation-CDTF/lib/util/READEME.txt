@@ -1,0 +1,4 @@
+The edu.umbc.cs.maple.utils.* java package defines a large number of useful utility function classes for machine learning, spectral graph theory, the Jama matrix package, and Java in general. 
+
+@Java Utility functions
+http://www.seas.upenn.edu/~eeaton/software.html

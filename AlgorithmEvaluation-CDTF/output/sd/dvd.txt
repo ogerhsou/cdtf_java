@@ -1,0 +1,41 @@
+The weight of training elements: 1.0
+Domain<0>: 997x1000
+- weight:   0.1
+
+factor weight: 0.050000 0.001000 0.001000
+
+common dimension R: 100
+
+max iteration: 100
+
+[INFO] initialized in 83 ms.
+[INFO] begin training ...
+target domain: 0
+
+
+Convergence criterion        : 0.001
+Maximal number of iterations : 100
+Common size of factors       : 100
+Random based initialization.
+Fitting model ...
+FitErr: 107.73065388604819 Iter: 1 Tol: 0.9999892269346115 Oldfit: 1.0E7
+FitErr: 81.56955572665422 Iter: 2 Tol: 0.24283801513973732 Oldfit: 107.73065388604819
+FitErr: 75.80243011801726 Iter: 3 Tol: 0.07070193722720565 Oldfit: 81.56955572665422
+FitErr: 73.97209498018384 Iter: 4 Tol: 0.024146127439235866 Oldfit: 75.80243011801726
+FitErr: 73.17663248276054 Iter: 5 Tol: 0.010753548316245408 Oldfit: 73.97209498018384
+FitErr: 72.76055399115192 Iter: 6 Tol: 0.005685947514825015 Oldfit: 73.17663248276054
+FitErr: 72.51341945424642 Iter: 7 Tol: 0.0033965455641742186 Oldfit: 72.76055399115192
+FitErr: 72.35369684783916 Iter: 8 Tol: 0.0022026627293178047 Oldfit: 72.51341945424642
+FitErr: 72.24426821935302 Iter: 9 Tol: 0.0015124124025932288 Oldfit: 72.35369684783916
+FitErr: 72.16613829557522 Iter: 10 Tol: 0.0010814688238044148 Oldfit: 72.24426821935302
+FitErr: 72.10860925186063 Iter: 11 Tol: 7.971750335173822E-4 Oldfit: 72.16613829557522
+
+top[  5]: hit = 1211    precTot = 3430  recTot = 5796   avgPrec = 0.353061  avgRec = 0.208937
+top[ 10]: hit = 1605    precTot = 6860  recTot = 5796   avgPrec = 0.233965  avgRec = 0.276915
+top[ 15]: hit = 1841    precTot = 10290 recTot = 5796   avgPrec = 0.178912  avgRec = 0.317633
+top[ 20]: hit = 2011    precTot = 13720 recTot = 5796   avgPrec = 0.146574  avgRec = 0.346963
+top[ 50]: hit = 2626    precTot = 34300 recTot = 5796   avgPrec = 0.076560  avgRec = 0.453071
+top[ 80]: hit = 2994    precTot = 54880 recTot = 5796   avgPrec = 0.054555  avgRec = 0.516563
+top[100]: hit = 3154    precTot = 68600 recTot = 5796   avgPrec = 0.045977  avgRec = 0.544168
+top[200]: hit = 3771    precTot = 137200    recTot = 5796   avgPrec = 0.027485  avgRec = 0.650621
+Elapsed time: 9.899s

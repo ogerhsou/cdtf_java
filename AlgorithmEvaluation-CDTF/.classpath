@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.2/commons-cli-1.2.jar" sourcepath="lib/commons-cli-1.2/commons-cli-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jama-1.0.3/Jama-1.0.3.jar" sourcepath="lib/jama-1.0.3/jama-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/util/Utils.jar" sourcepath="lib/util/Utils-src.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

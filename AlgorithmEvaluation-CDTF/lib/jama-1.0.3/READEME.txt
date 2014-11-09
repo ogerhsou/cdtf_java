@@ -1,0 +1,4 @@
+JAMA is a software library for performing numerical linear algebra tasks created at NIST similar in functionality to LAPACK and has been released to the public domain. 
+
+@JAMA
+http://math.nist.gov/javanumerics/jama/
